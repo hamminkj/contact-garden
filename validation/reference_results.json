@@ -1,0 +1,141 @@
+{
+  "checks": [
+    "Identical seed and conditions reproduce speaker state and measures in the reference harness.",
+    "Serialized checkpoint continuation matches uninterrupted continuation in the reference harness.",
+    "Word acceptance at zero blocks English forms in Taluma while grammar still changes.",
+    "Population and history invariants hold; readiness and preference probabilities stay in bounds.",
+    "Canonical English messages match all five intended meanings; Taluma question particle is final.",
+    "Preset checks distinguish bilingual maintenance, domain separation, shift/protection, and patterns without loans."
+  ],
+  "reference_results": [
+    {
+      "preset": "Open crossroads",
+      "outcome": "Diglossia-like distribution",
+      "bilingual": 1.0,
+      "taluma": 1.0,
+      "english": 1.0,
+      "grammar": 0.31069864423774907,
+      "loans": 0.054587574232351735,
+      "home": 0.34782608695652173,
+      "public": 0.8,
+      "confidence": 0.7000298917597667,
+      "goal_met": [
+        false,
+        true,
+        true,
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "preset": "Two domains",
+      "outcome": "Diglossia-like distribution",
+      "bilingual": 0.6458333333333334,
+      "taluma": 0.6458333333333334,
+      "english": 1.0,
+      "grammar": 0.01054261426462901,
+      "loans": 0.0022591952588496694,
+      "home": 0.3287671232876712,
+      "public": 0.971830985915493,
+      "confidence": 0.9894573857353711,
+      "goal_met": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "preset": "New shared variety",
+      "outcome": "Emerging shared contact variety",
+      "bilingual": 0.9791666666666666,
+      "taluma": 0.9791666666666666,
+      "english": 1.0,
+      "grammar": 0.49847443602754277,
+      "loans": 0.7478036158284693,
+      "home": 0.5074626865671642,
+      "public": 0.6883116883116883,
+      "confidence": 0.6921131705967989,
+      "goal_met": [
+        false,
+        true,
+        false,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "preset": "Institutional shift",
+      "outcome": "English shift in progress",
+      "bilingual": 0.0,
+      "taluma": 0.0,
+      "english": 1.0,
+      "grammar": 0.4017000101954713,
+      "loans": 0.47033864577474266,
+      "home": 0.9,
+      "public": 0.9523809523809523,
+      "confidence": 0.8684177871003803,
+      "goal_met": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "preset": "Protected homes",
+      "outcome": "Diglossia-like distribution",
+      "bilingual": 0.9375,
+      "taluma": 0.9375,
+      "english": 1.0,
+      "grammar": 0.06920102232922533,
+      "loans": 0.021564171569540134,
+      "home": 0.36363636363636365,
+      "public": 0.835820895522388,
+      "confidence": 0.9307989776707745,
+      "goal_met": [
+        false,
+        true,
+        true,
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "preset": "Patterns without loans",
+      "outcome": "Diglossia-like distribution",
+      "bilingual": 0.9375,
+      "taluma": 1.0,
+      "english": 0.9375,
+      "grammar": 0.15541802403634364,
+      "loans": 0.0,
+      "home": 0.36666666666666664,
+      "public": 0.8333333333333334,
+      "confidence": 0.8445819759636564,
+      "goal_met": [
+        false,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true
+      ]
+    }
+  ],
+  "method": "Translated core model in a Python reference harness; Python RNG; not native Godot.",
+  "scenario_population": 48,
+  "scenario_rounds": 175
+}

@@ -1,0 +1,185 @@
+{
+  "method": "Translated GDScript logic, Python RNG; 48 speakers, 175 rounds. Not native Godot validation.",
+  "results": [
+    {
+      "seed": 4217,
+      "goal": {
+        "met": true,
+        "text": "Begin with at least 60% English-origin households. Over 25 rounds: Taluma at least 75% of home/public use and 65% within English-origin networks. At least 75% Taluma-ready in those networks and new cohorts; 75 rounds and one population of births.",
+        "progress": 1.0
+      },
+      "metrics": {
+        "tick": 175,
+        "bilingual": 0.25,
+        "taluma": 1.0,
+        "english": 0.25,
+        "home_english": 0.17647058823529413,
+        "public_english": 0.13157894736842105,
+        "overall_english": 0.1527777777777778,
+        "comprehension": 0.9476397795848924,
+        "distance": 0.005909989349854654,
+        "confidence": 0.9831064990085526,
+        "grammar_change": 0.4970450053250726,
+        "taluma_loans": 0.015997706637767582,
+        "english_loans": 0.8567446007311332,
+        "lexical_mix": 0.28651079853773365,
+        "young_taluma": 1.0,
+        "new_speakers": 1.0,
+        "births": 249,
+        "english_origin_taluma": 1.0,
+        "english_origin_home_taluma": 0.8333333333333334,
+        "english_origin_public_taluma": 0.8769230769230769
+      }
+    },
+    {
+      "seed": 4218,
+      "goal": {
+        "met": true,
+        "text": "Begin with at least 60% English-origin households. Over 25 rounds: Taluma at least 75% of home/public use and 65% within English-origin networks. At least 75% Taluma-ready in those networks and new cohorts; 75 rounds and one population of births.",
+        "progress": 1.0
+      },
+      "metrics": {
+        "tick": 175,
+        "bilingual": 0.20833333333333334,
+        "taluma": 1.0,
+        "english": 0.20833333333333334,
+        "home_english": 0.12,
+        "public_english": 0.2753623188405797,
+        "overall_english": 0.19444444444444445,
+        "comprehension": 0.9391688275988866,
+        "distance": 0.015703822557928414,
+        "confidence": 0.9598781479857075,
+        "grammar_change": 0.4921480887210358,
+        "taluma_loans": 0.021638608019163022,
+        "english_loans": 0.8074602664546475,
+        "lexical_mix": 0.38507946709070484,
+        "young_taluma": 1.0,
+        "new_speakers": 1.0,
+        "births": 242,
+        "english_origin_taluma": 1.0,
+        "english_origin_home_taluma": 0.8870967741935484,
+        "english_origin_public_taluma": 0.7301587301587301
+      }
+    },
+    {
+      "seed": 4219,
+      "goal": {
+        "met": true,
+        "text": "Begin with at least 60% English-origin households. Over 25 rounds: Taluma at least 75% of home/public use and 65% within English-origin networks. At least 75% Taluma-ready in those networks and new cohorts; 75 rounds and one population of births.",
+        "progress": 1.0
+      },
+      "metrics": {
+        "tick": 175,
+        "bilingual": 0.16666666666666666,
+        "taluma": 1.0,
+        "english": 0.16666666666666666,
+        "home_english": 0.15384615384615385,
+        "public_english": 0.13924050632911392,
+        "overall_english": 0.14583333333333334,
+        "comprehension": 0.9616951887261901,
+        "distance": 0.007942461944106834,
+        "confidence": 0.9824297041097977,
+        "grammar_change": 0.49602876902794657,
+        "taluma_loans": 0.01202115043155719,
+        "english_loans": 0.8770240025474407,
+        "lexical_mix": 0.24595199490511854,
+        "young_taluma": 1.0,
+        "new_speakers": 1.0,
+        "births": 239,
+        "english_origin_taluma": 1.0,
+        "english_origin_home_taluma": 0.8461538461538461,
+        "english_origin_public_taluma": 0.8714285714285714
+      }
+    },
+    {
+      "seed": 4220,
+      "goal": {
+        "met": true,
+        "text": "Begin with at least 60% English-origin households. Over 25 rounds: Taluma at least 75% of home/public use and 65% within English-origin networks. At least 75% Taluma-ready in those networks and new cohorts; 75 rounds and one population of births.",
+        "progress": 1.0
+      },
+      "metrics": {
+        "tick": 175,
+        "bilingual": 0.14583333333333334,
+        "taluma": 1.0,
+        "english": 0.14583333333333334,
+        "home_english": 0.13559322033898305,
+        "public_english": 0.18823529411764706,
+        "overall_english": 0.16666666666666666,
+        "comprehension": 0.9539779303768403,
+        "distance": 0.010458854440027908,
+        "confidence": 0.9747672530521578,
+        "grammar_change": 0.49477057277998604,
+        "taluma_loans": 0.017865048139050734,
+        "english_loans": 0.8572699811662188,
+        "lexical_mix": 0.2854600376675625,
+        "young_taluma": 1.0,
+        "new_speakers": 1.0,
+        "births": 239,
+        "english_origin_taluma": 1.0,
+        "english_origin_home_taluma": 0.8461538461538461,
+        "english_origin_public_taluma": 0.8309859154929577
+      }
+    },
+    {
+      "seed": 4221,
+      "goal": {
+        "met": true,
+        "text": "Begin with at least 60% English-origin households. Over 25 rounds: Taluma at least 75% of home/public use and 65% within English-origin networks. At least 75% Taluma-ready in those networks and new cohorts; 75 rounds and one population of births.",
+        "progress": 1.0
+      },
+      "metrics": {
+        "tick": 175,
+        "bilingual": 0.14583333333333334,
+        "taluma": 1.0,
+        "english": 0.14583333333333334,
+        "home_english": 0.13414634146341464,
+        "public_english": 0.08064516129032258,
+        "overall_english": 0.1111111111111111,
+        "comprehension": 0.9534283629886637,
+        "distance": 0.018738163151818213,
+        "confidence": 0.9642688180419117,
+        "grammar_change": 0.4906309184240909,
+        "taluma_loans": 0.02008995127839925,
+        "english_loans": 0.8237722269442447,
+        "lexical_mix": 0.35245554611151064,
+        "young_taluma": 1.0,
+        "new_speakers": 1.0,
+        "births": 234,
+        "english_origin_taluma": 1.0,
+        "english_origin_home_taluma": 0.8571428571428571,
+        "english_origin_public_taluma": 0.9245283018867925
+      }
+    },
+    {
+      "seed": 4222,
+      "goal": {
+        "met": true,
+        "text": "Begin with at least 60% English-origin households. Over 25 rounds: Taluma at least 75% of home/public use and 65% within English-origin networks. At least 75% Taluma-ready in those networks and new cohorts; 75 rounds and one population of births.",
+        "progress": 1.0
+      },
+      "metrics": {
+        "tick": 175,
+        "bilingual": 0.1875,
+        "taluma": 1.0,
+        "english": 0.1875,
+        "home_english": 0.11764705882352941,
+        "public_english": 0.11842105263157894,
+        "overall_english": 0.11805555555555555,
+        "comprehension": 0.9634266687233963,
+        "distance": 0.006441200860238419,
+        "confidence": 0.9865706057737036,
+        "grammar_change": 0.4967793995698808,
+        "taluma_loans": 0.011613032752228396,
+        "english_loans": 0.8872965862369411,
+        "lexical_mix": 0.2254068275261178,
+        "young_taluma": 1.0,
+        "new_speakers": 1.0,
+        "births": 247,
+        "english_origin_taluma": 1.0,
+        "english_origin_home_taluma": 0.8793103448275862,
+        "english_origin_public_taluma": 0.8787878787878788
+      }
+    }
+  ]
+}
